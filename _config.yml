@@ -6,7 +6,7 @@ menu:
   Tags: tags # 标签
   Repository: repository # github repositories
   # Books: books # 豆瓣书单
-  # Links: links # 友链
+  Links: links # 链接
   About: about # 关于
 
 # Enable/Disable menu icons
@@ -18,7 +18,7 @@ menu_icons:
   tags: icon-tags
   repository: icon-project
   # books: icon-book-fill
-  # links: icon-friendship
+  links: icon-friendship
   about: icon-cup-fill
 
 # rss
